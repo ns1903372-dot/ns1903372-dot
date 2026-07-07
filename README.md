@@ -151,6 +151,13 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ns1903372-dot/ns1903372-dot/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 # 👀 Profile Views
 
