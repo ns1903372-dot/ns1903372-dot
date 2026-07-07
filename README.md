@@ -1,39 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=Navneet%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=62"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub!;💻+Java+Developer;🚀+LeetCode+Problem+Solver;🔥+DSA+Enthusiast;🌱+Learning+Spring+Boot;⭐+Future+Software+Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Navneet%20Sharma&fontAlign=50&fontAlignY=40&fontSize=55&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2a7d4b6b-22fa-4b69-99f7-ec4f85d2d4bb.gif" width="500">
-</p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-6d0d3b0d-c0f0-44c5-b2a8-9d15b8d33e7c.gif">
-</p>
-
-<h2 align="center">
-✨ Turning Coffee ☕ into Code 💻 ✨
-</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
-
-</p>
-
-<h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
+<h1 align="center">Hi , I'm Nandini Sharma</h1>
 
 <h3 align="center">
-🚀 Passionate Java Developer | 💻 DSA Enthusiast | 🌱 Always Learning
+ Passionate Java Developer |  DSA Enthusiast | Always Learning
 </h3>
 
 <p align="center">
@@ -46,25 +21,25 @@
 
 <img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 👨‍💻 About Me
+##  About Me
 
-🎓 Computer Science Student
+ Computer Science Student
 
-💻 Currently Learning **Java**
+Currently Learning **Java**
 
-🚀 Solving **LeetCode Daily**
+Solving **LeetCode Daily**
 
-📚 Learning **Data Structures & Algorithms**
+Learning **Data Structures & Algorithms**
 
-🌱 Exploring **Backend Development**
+Exploring **Backend Development**
 
-🎯 Goal: **Software Engineer**
+ Goal: **Software Engineer**
 
 ⚡ Fun Fact: **I love solving challenging coding problems.**
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -77,7 +52,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -86,7 +61,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 
@@ -96,7 +71,7 @@
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -122,7 +97,7 @@
 
 ---
 
-# 🏆 Coding Profiles
+#  Coding Profiles
 
 <p align="center">
 
@@ -136,19 +111,19 @@
 
 # 📌 Featured Projects
 
-⭐ Java DSA
+ Java DSA
 
-⭐ C++ DSA
+ C++ DSA
 
-⭐ College Projects
+ College Projects
 
-⭐ Portfolio Website (Coming Soon)
+Portfolio Website (Coming Soon)
 
-⭐ Mini Projects
+ Mini Projects
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -168,7 +143,7 @@
 
 ---
 
-# 💬 Dev Quote
+#  Dev Quote
 
 <p align="center">
 
@@ -177,9 +152,8 @@
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <p align="center">
   <picture>
@@ -201,9 +175,9 @@
 
 <div align="center">
 
-## 🚀 Thanks for visiting my profile!
+##  Thanks for visiting my profile!
 
-### ⭐ If you like my repositories, don't forget to star them ⭐
+### If you like my repositories, don't forget to star them 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
