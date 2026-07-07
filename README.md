@@ -1,8 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Nandini%20Sharma&fontAlign=50&fontAlignY=40&fontSize=55&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=Navneet%20Sharma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Developer%20|%20DSA%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=62"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub!;💻+Java+Developer;🚀+LeetCode+Problem+Solver;🔥+DSA+Enthusiast;🌱+Learning+Spring+Boot;⭐+Future+Software+Engineer"/>
 
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2a7d4b6b-22fa-4b69-99f7-ec4f85d2d4bb.gif" width="500">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-6d0d3b0d-c0f0-44c5-b2a8-9d15b8d33e7c.gif">
+</p>
+
+<h2 align="center">
+✨ Turning Coffee ☕ into Code 💻 ✨
+</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learning-success?style=for-the-badge"/>
+
+</p>
 
 <h1 align="center">Hi 👋, I'm Nandini Sharma</h1>
 
