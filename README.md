@@ -52,14 +52,7 @@ Exploring **Backend Development**
 
 ---
 
-# GitHub Statistics
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ns1903372-dot&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 #  GitHub Streak
 
