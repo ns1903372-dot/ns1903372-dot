@@ -48,13 +48,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ns1903372-dot&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -110,7 +103,7 @@
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/2TeGdRqrmG/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -136,11 +129,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nandini-sharma-2994a9279">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ns1903372@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
