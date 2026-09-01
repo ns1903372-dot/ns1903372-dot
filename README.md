@@ -90,15 +90,6 @@ Exploring **Backend Development**
 
 ---
 
-#  Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/2TeGdRqrmG/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
 
 ---
 
